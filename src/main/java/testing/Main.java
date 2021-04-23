@@ -8,7 +8,7 @@ public class Main {
 
 	}
 	void master() {
-		System.out.println(" testing 02");
+		System.out.println(" testing 0002");
 	}
 
 }
